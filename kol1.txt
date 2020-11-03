@@ -1,1 +1,3 @@
 zmiana01kol1
+zmiana02kol1
+zmiana03kol1

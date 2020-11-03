@@ -3,3 +3,4 @@ zmiana02kol1
 zmiana03kol1
 zmiana04kol1
 zmiana05kol1
+zmiana06kol1

@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 zmiana01kol2
 zmiana02kol2
 zmiana03kol2
-=======
-zmiana01kol2
->>>>>>> parent of ef85d58... zmiana02 kol2 master
+zmiana04kol2
